@@ -1,0 +1,11 @@
+{
+  "name": "ai-fairness-bias-audit",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build"
+  }
+}
